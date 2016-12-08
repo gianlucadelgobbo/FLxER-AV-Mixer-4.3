@@ -79,4 +79,19 @@ FLxER 4 FEATURES
 
 - BROADCAST VIDEO PLAYER
 
+Updates:
+------------
+- CODANOVA VMX VJ MIDI MAP
+- New keyboard shortcut for blend and wipes
+- New FLxEReasyPlaylistsBuilder.jar
+- New MAC midiToFLxER
+- Some bug fixed
+
+The package contains:
+------------
+- FLxER Application
+- FLxEReasyPlaylistsBuilder.jar
+- midiToFLxER.jar
+- Default Library
+- Wipes, Effects and DV-IN sources files
  
