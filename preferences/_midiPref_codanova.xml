@@ -1,0 +1,64 @@
+<root>
+	<midiCtrl midiID="B01C" fnz="slider" val="0,100" ch="0" midiVal="0,7F" />
+	<midiCtrl midiID="B01D" fnz="slider" val="0,100" ch="1" midiVal="0,7F" />
+	<midiCtrl midiID="B01E" fnz="slider" val="0,100" ch="2" midiVal="0,7F" />
+	<midiCtrl midiID="B01F" fnz="slider" val="0,100" ch="3" midiVal="0,7F" />
+	<midiCtrl midiID="B01B" fnz="slider" val="0,100" ch="4" midiVal="0,7F" />
+	<midiCtrl midiID="B01A" fnz="slider" val="0,100" ch="5" midiVal="0,7F" />
+	<midiCtrl midiID="B019" fnz="slider" val="0,100" ch="6" midiVal="0,7F" />	
+
+	<midiCtrl midiID="906C" fnz="changeChannel" val="0" ch="1" midiVal="7F" />
+	<midiCtrl midiID="9062" fnz="changeChannel" val="1" ch="2" midiVal="7F" />
+	<midiCtrl midiID="9058" fnz="changeChannel" val="2" ch="3" midiVal="7F" />
+	<midiCtrl midiID="904E" fnz="changeChannel" val="3" ch="1" midiVal="7F" />
+	<midiCtrl midiID="9044" fnz="changeChannel" val="4" ch="2" midiVal="7F" />
+	<midiCtrl midiID="903A" fnz="changeChannel" val="5" ch="3" midiVal="7F" />
+	<midiCtrl midiID="9030" fnz="changeChannel" val="6" ch="3" midiVal="7F" />
+
+	<midiCtrl midiID="B014" fnz="scratch" val="0,800" ch="auto" midiVal="0,7F" />
+
+	<midiCtrl midiID="B064" fnz="zoomOneByOne" val="-10,10" ch="auto" midiVal="1,7F" />
+	<midiCtrl midiID="B065" fnz="zoomOneByOneX" val="-10,10" ch="auto" midiVal="1,7F" />
+
+	<midiCtrl midiID="9023" fnz="moveDown" ch="auto" midiVal="0" />
+	<midiCtrl midiID="904B" fnz="moveUp" ch="auto" midiVal="0" />
+
+	<midiCtrl midiID="806E" fnz="live" ch="auto" midiVal="0" />
+	<midiCtrl midiID="905D" fnz="lockWipes" ch="auto" midiVal="0" />
+
+	<midiCtrl midiID="9071" fnz="tap" ch="auto" val="1" midiVal="1" />
+
+	<midiCtrl midiID="9078" fnz="stopPlay" ch="auto" midiVal="0" />
+	<midiCtrl midiID="9064" fnz="rewind" ch="auto" midiVal="0" />
+	<midiCtrl midiID="9050" fnz="hideShow" ch="auto" midiVal="0" />
+	<midiCtrl midiID="903C" fnz="reset" ch="auto" midiVal="0" />
+	<midiCtrl midiID="9032" fnz="eject" ch="auto" midiVal="0" />
+
+	<midiCtrl midiID="B00B" fnz="redMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B00A" fnz="greenMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B009" fnz="bluMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+
+	<midiCtrl midiID="9067" fnz="bkgOnOff" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B010" fnz="redMovieB" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B011" fnz="greenMovieB" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B012" fnz="bluMovieB" val="-255,255" ch="auto" midiVal="0,7F" />
+
+	<midiCtrl midiID="9073" fnz="libraryScroller" val="-1" ch="auto" midiVal="0" />	
+	<midiCtrl midiID="9049" fnz="libraryScroller" val="1" ch="auto" midiVal="0"  />
+
+	<midiCtrl midiID="905F" fnz="blendScroller" val="-1" ch="auto" midiVal="0" />
+	<midiCtrl midiID="9037" fnz="blendScroller" val="1" ch="auto" midiVal="0" />
+
+	<midiCtrl midiID="9055" fnz="wipeScroller" val="-1" ch="auto" midiVal="0" />	
+	<midiCtrl midiID="902D" fnz="wipeScroller" val="1" ch="auto" midiVal="0" />	
+
+	<midiCtrl midiID="906A" fnz="quickContent" val="1" ch="auto" midiVal="7F" />
+	<midiCtrl midiID="9042" fnz="quickContent" val="2" ch="auto" midiVal="7F" />
+	<midiCtrl midiID="906B" fnz="quickContent" val="3" ch="auto" midiVal="7F" />
+
+	<midiCtrl midiID="9069" fnz="movieScroller" val="-1" ch="auto" midiVal="0" />
+	<midiCtrl midiID="9041" fnz="movieScroller" val="1" ch="auto" midiVal="0" />
+	
+	<midiCtrl midiID="B015" fnz="rotate" val="1,1600" ch="auto" midiVal="0,7F" />	
+
+</root>
